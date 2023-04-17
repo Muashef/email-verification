@@ -75,6 +75,9 @@
   }
 
   @media only screen and (max-width: 425px) and (min-width: 350px) {
+    .header h2{
+        font-size: 1.5rem;
+    }
     .content{
         width: 100%;
         padding: 2rem 30px;
